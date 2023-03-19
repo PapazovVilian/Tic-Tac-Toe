@@ -3,4 +3,4 @@ Python Game Tic-Tac-Toe
 
 picture of gameplay included
 
-![Screenshot](gameplay.jpg)
+![Screenshot](gameplay.JPG)
